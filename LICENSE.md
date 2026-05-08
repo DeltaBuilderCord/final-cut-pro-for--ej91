@@ -1,4 +1,4 @@
-
+Enhance Final Cut Pro for macOS with Final Cut Pro for macOS smart Overlay: stream-overlays & green-screen-removal, the #1 overlay. Includes stream-overlays and
 
 
 
